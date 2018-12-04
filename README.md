@@ -4,8 +4,6 @@ This is an minimal but opinionated boilerplate meant for building out simple RES
 
 Documentation is located [here](https://github.com/tko22/flask-boilerplate/wiki). We use [pipenv](https://docs.pipenv.org/#) for dependency management, [black](https://github.com/ambv/black) for code formatting, and [mypy](http://mypy-lang.org/) for optional static typing.
 
-![](../master/docs/flask.gif)
-
 ## Goal
 
 The goal of this boilerplate is to allow developers to quickly write their API with code structured to best practices while giving them flexibility to easily add/change features. Here are the problems this is trying to solve:
